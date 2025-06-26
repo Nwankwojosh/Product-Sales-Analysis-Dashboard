@@ -1,16 +1,9 @@
 # Product-Sales-Analysis-Dashboard
 Project Overview This dashboard provides a comprehensive overview of product sales performance across different countries, segments, and products. It enables stakeholders to track key performance indicators (KPIs) such as total sales, total profit, and units sold, and to analyze trends over time and categories.
-
 ---
 ![Capture](https://github.com/user-attachments/assets/fbfd14df-f7be-4096-b90e-99b525bb601a)
 
 # 📊 Product Sales Analysis Dashboard – README
-
-**Author:** Nwankwo Obioma J.
-**File:** Capture.JPG
-**Dashboard Tool:** Power BI
-**Dataset:** Product sales and customer data (700 records)
-
 ---
 
 ## 📌 Project Overview
